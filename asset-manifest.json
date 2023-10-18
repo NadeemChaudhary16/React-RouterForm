@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/NadeemChaudhary16/React-RouterForm/static/css/main.a8be49d4.css",
+    "main.js": "/NadeemChaudhary16/React-RouterForm/static/js/main.9dcbfe98.js",
+    "static/js/787.47a19aa3.chunk.js": "/NadeemChaudhary16/React-RouterForm/static/js/787.47a19aa3.chunk.js",
+    "static/media/signup.png": "/NadeemChaudhary16/React-RouterForm/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/NadeemChaudhary16/React-RouterForm/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/NadeemChaudhary16/React-RouterForm/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/NadeemChaudhary16/React-RouterForm/static/media/Logo.0d90853fa1468dbe2d8d82c0ea06b8b1.svg",
+    "index.html": "/NadeemChaudhary16/React-RouterForm/index.html",
+    "main.a8be49d4.css.map": "/NadeemChaudhary16/React-RouterForm/static/css/main.a8be49d4.css.map",
+    "main.9dcbfe98.js.map": "/NadeemChaudhary16/React-RouterForm/static/js/main.9dcbfe98.js.map",
+    "787.47a19aa3.chunk.js.map": "/NadeemChaudhary16/React-RouterForm/static/js/787.47a19aa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8be49d4.css",
+    "static/js/main.9dcbfe98.js"
+  ]
+}
